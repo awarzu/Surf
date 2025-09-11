@@ -1,6 +1,3 @@
-
-
-![Surf Screenshot](icon1.png)
 # SURF
 
 A Python Tkinter application that emulates the functionality of CustomCurve Pro for creating and testing custom mouse sensitivity curves.
