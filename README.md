@@ -113,7 +113,7 @@ Example of a saved profile (pretty-printed):
 
 | Version         | Release Date | Windows                                                                                                                                                    | Linux       | Notes                                                                     |
 | --------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------- |
-| v1.0.4 – Part 2 | 2025-10-02   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.4/Surf.exe)   | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.4)       |
+| v1.0.4 – Part 2 | 2025-10-02   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.4r1/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.4r1)     |
 | v1.0.4 – Part 1 | 2025-09-28   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.4/Surf.exe)   | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.4-part1) |
 | v1.0.3p1        | 2025-09-19   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.3p1/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.3p1)     |
 | v1.0.3          | 2025-09-12   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.3/Surf.exe)   | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.3)       |
@@ -123,6 +123,7 @@ Example of a saved profile (pretty-printed):
 | v1.0.2          | last month   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.2/Surf.exe)   | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.2)       |
 | v1.0.1          | 2025-08-31   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.1/Surf.exe)   | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.1)       |
 | v1.0.0          | 2025-08-31   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.0/Surf.exe)   | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.0)       |
+
 
 
 ---
