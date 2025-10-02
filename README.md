@@ -54,12 +54,10 @@ Surf recreates the best parts of CustomCurve Pro and adds modern UX touches: int
 2. Extract the package
 3. Run the executable file directly — no manual setup required
 
-For developers who wish to build from source, clone the repository and run the Python script:
-
 ```bash
-git clone https://github.com/awarzu/Surf.git
+git clone https://github.com/awarzu/Surf/releases/tag/v1.0.4r1
 cd Surf
-python surf.py
+python surf.exe
 ```
 
 ---
