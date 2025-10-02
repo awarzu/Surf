@@ -5,7 +5,7 @@
 [![Release](https://img.shields.io/github/v/release/awarzu/Surf)](https://github.com/awarzu/Surf/releases) [![License](https://img.shields.io/github/license/awarzu/Surf)](LICENSE) [![Stars](https://img.shields.io/github/stars/awarzu/Surf?style=social)](https://github.com/awarzu/Surf/stargazers)
 
 <p align="center">
-  <img src="docs/assets/surf_logo.png" alt="Surf logo" width="300"/>
+  <img src="docs/assets/icon.png" alt="Surf logo" width="300"/>
 </p>
 
 ---
