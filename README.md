@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/awarzu/Surf?style=social)](https://github.com/awarzu/Surf/stargazers)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/awarzu/Surf/main/icon1.png" alt="Surf icon" width="160"/>
+  <img src="https://raw.githubusercontent.com/awarzu/Surf/main/icon.png" alt="Surf icon" width="160"/>
 </p>
 
 ---
