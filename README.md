@@ -18,9 +18,10 @@
 4. [Controls & Interactions](#controls--interactions-in-app)
 5. [Testing Area](#testing-area)
 6. [Profile Format (JSON)](#profile-format-json)
-7. [Demonstration](#demonstration)
-8. [Contributing](#contributing)
-9. [License](#license)
+7. [Downloads](#downloads)
+8. [Demonstration](#demonstration)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 ---
 
@@ -54,10 +55,12 @@ Surf recreates the best parts of CustomCurve Pro and adds modern UX touches: int
 2. Extract the package
 3. Run the executable file directly — no manual setup required
 
+For developers who wish to build from source, clone the repository and run the Python script:
+
 ```bash
-git clone github.com/awarzu/Surf/releases/tag/(SPECIFIC RELEASE)
+git clone https://github.com/awarzu/Surf.git
 cd Surf
-python surf.exe
+python surf.py
 ```
 
 ---
@@ -105,6 +108,23 @@ Example of a saved profile (pretty-printed):
   }
 }
 ```
+
+---
+
+## Downloads
+
+| Version         | Release Date | Windows Download                                                               | Linux Support |
+| --------------- | ------------ | ------------------------------------------------------------------------------ | ------------- |
+| v1.0.4 – Part 2 | 2025-10-02   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.4/Surf.exe)   | Coming soon   |
+| v1.0.4 – Part 1 | 2025-09-28   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.4/Surf.exe)   | Coming soon   |
+| v1.0.3p1        | 2025-09-19   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.3p1/Surf.exe) | Coming soon   |
+| v1.0.3          | 2025-09-12   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.3/Surf.exe)   | Coming soon   |
+| v1.0.2p3        | 2025-09-10   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.2p3/Surf.exe) | Coming soon   |
+| v1.0.2p2        | 2025-09-10   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.2p2/Surf.exe) | Coming soon   |
+| v1.0.2p1        | 2025-09-09   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.2p1/Surf.exe) | Coming soon   |
+| v1.0.2          | last month   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.2/Surf.exe)   | Coming soon   |
+| v1.0.1          | 2025-08-31   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.1/Surf.exe)   | Coming soon   |
+| v1.0.0          | 2025-08-31   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.0/Surf.exe)   | Coming soon   |
 
 ---
 
