@@ -1,14 +1,26 @@
 # SURF
 
-> **A modern, polished reimplementation of CustomCurve Pro** — a Python Tkinter app for creating, editing, and testing custom mouse sensitivity curves. Designed for precision, performance, and a clean dark UI.
+> A modern, polished reimplementation of CustomCurve Pro — a Python Tkinter app for creating, editing, and testing custom mouse sensitivity curves. Designed for precision, performance, and a clean dark UI.
 
-[![Release](https://img.shields.io/github/v/release/awarzu/Surf)](https://github.com/awarzu/Surf/releases)
-[![License](https://img.shields.io/github/license/awarzu/Surf)](https://github.com/awarzu/Surf/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/awarzu/Surf?style=social)](https://github.com/awarzu/Surf/stargazers)
+[![Release](https://img.shields.io/github/v/release/awarzu/Surf)](https://github.com/awarzu/Surf/releases) [![License](https://img.shields.io/github/license/awarzu/Surf)](LICENSE) [![Stars](https://img.shields.io/github/stars/awarzu/Surf?style=social)](https://github.com/awarzu/Surf/stargazers)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/awarzu/Surf/main/icon.png" alt="Surf icon" width="160"/>
+  <img src="docs/assets/surf_logo.png" alt="Surf logo" width="300"/>
 </p>
+
+---
+
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Key Features](#key-features)
+3. [Installation](#installation)
+4. [Controls & Interactions](#controls--interactions-in-app)
+5. [Testing Area](#testing-area)
+6. [Profile Format (JSON)](#profile-format-json)
+7. [Demonstration](#demonstration)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ---
 
@@ -20,32 +32,34 @@ Surf recreates the best parts of CustomCurve Pro and adds modern UX touches: int
 
 ## Key Features
 
-* Input DPI & in-game sensitivity with instant preview.
-* Interactive curve editor (horizontal + vertical): add, move, remove control points.
+* Input DPI & in-game sensitivity with instant preview
+* Interactive curve editor (horizontal + vertical): add, move, remove control points
 
   * Add point: double-click
   * Remove point: right-click a point
   * Move point: hold left mouse and drag
   * Zoom: mouse wheel
   * Pan: middle mouse button + drag
-* Curve bias sliders for independent horizontal/vertical multipliers (0.1x — 3.0x).
-* Profile system: save/load JSON profiles, rename, delete, import/export via file dialog.
-* Import `.ccurve` files and convert/apply them instantly.
-* Sandboxed test canvas — visual, real-time mouse movement simulation and gain readouts (no system changes).
-* Modern dark theme with responsive scaling compatible with Windows 10/11.
+* Curve bias sliders for independent horizontal/vertical multipliers (0.1x — 3.0x)
+* Profile system: save/load JSON profiles, rename, delete, import/export via file dialog
+* Import `.ccurve` files and convert/apply them instantly
+* Sandboxed test canvas — visual, real-time mouse movement simulation and gain readouts (no system changes)
+* Modern dark theme with responsive scaling compatible with Windows 10/11
 
 ---
 
 ## Installation
 
-1. Download the latest release from the [Releases page](https://github.com/awarzu/Surf/releases).
-2. Extract the package.
+1. Download the latest release from the [Releases page](https://github.com/awarzu/Surf/releases)
+2. Extract the package
 3. Run the executable file directly — no manual setup required
 
+For developers who wish to build from source, clone the repository and run the Python script:
+
 ```bash
-git clone https://github.com/awarzu/Surf/releases/tag/(Specific Release)
+git clone https://github.com/awarzu/Surf.git
 cd Surf
-python Surf.exe
+python surf.py
 ```
 
 ---
@@ -98,11 +112,9 @@ Example of a saved profile (pretty-printed):
 
 ## Demonstration
 
-If you would like to see how Surf works before downloading:
-
-* Check the [Releases page](https://github.com/awarzu/Surf/releases) where usage notes and version highlights are included.
-* Read the feature breakdown above — it mirrors the actual workflow in the application.
-* User-shared profiles in Issues/Discussions can also serve as practical demonstrations of real setups.
+* Check the [Releases page](https://github.com/awarzu/Surf/releases) for usage notes and version highlights
+* Read the feature breakdown above — it mirrors the actual workflow in the application
+* User-shared profiles in Issues/Discussions can also serve as practical demonstrations
 
 ---
 
@@ -110,21 +122,15 @@ If you would like to see how Surf works before downloading:
 
 Since the repository currently contains only compiled releases, contributions can be made in the following ways:
 
-* **Feedback** — Report bugs, unexpected behavior, or UI issues in the [Issues section](https://github.com/awarzu/Surf/issues).
-* **Feature Requests** — Suggest improvements or new features via Issues.
-* **Profile Sharing** — Upload and share your custom profile configurations to help others.
-* **Testing** — Download releases, test across different systems, and report compatibility or performance issues.
+* **Feedback** — Report bugs, unexpected behavior, or UI issues in the [Issues section](https://github.com/awarzu/Surf/issues)
+* **Feature Requests** — Suggest improvements or new features via Issues
+* **Profile Sharing** — Upload and share your custom profile configurations to help others
+* **Testing** — Download releases, test across different systems, and report compatibility or performance issues
 
 Pull requests with code changes are welcome once source files are available.
 
 ---
 
-## Changelog & Releases
-
-See the [Releases tab](https://github.com/awarzu/Surf/releases) on GitHub for packaged builds and release notes.
-
----
-
 ## License
 
-Include your license file (e.g., MIT). If you want, I can add a standard `LICENSE` file content here.
+This project is licensed under the terms provided in the [LICENSE](LICENSE) file.
