@@ -2,10 +2,10 @@
 
 > A modern, polished reimplementation of CustomCurve Pro — a Python Tkinter app for creating, editing, and testing custom mouse sensitivity curves. Designed for precision, performance, and a clean dark UI.
 
-[![Release](https://img.shields.io/github/v/release/awarzu/Surf)](https://github.com/awarzu/Surf/releases) [![License](https://img.shields.io/github/license/awarzu/Surf)](LICENSE) [![Stars](https://img.shields.io/github/stars/awarzu/Surf?style=social)](https://github.com/awarzu/Surf/stargazers)
+[![Release](https://img.shields.io/github/v/release/awarzu/Surf)](https://github.com/awarzu/Surf/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Stars](https://img.shields.io/github/stars/awarzu/Surf?style=social)](https://github.com/awarzu/Surf/stargazers)
 
 <p align="center">
-  <img src="docs/assets/icon.png" alt="Surf logo" width="300"/>
+  <img src="icon.png" alt="Surf logo" width="300"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@ Surf recreates the best parts of CustomCurve Pro and adds modern UX touches: int
 3. Run the executable file directly — no manual setup required
 
 ```bash
-git clone https://github.com/awarzu/Surf/releases/tag/v1.0.4r1
+git clone github.com/awarzu/Surf/releases/tag/(SPECIFIC RELEASE)
 cd Surf
 python surf.exe
 ```
@@ -131,4 +131,4 @@ Pull requests with code changes are welcome once source files are available.
 
 ## License
 
-This project is licensed under the terms provided in the [LICENSE](LICENSE) file.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
