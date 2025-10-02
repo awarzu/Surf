@@ -113,18 +113,19 @@ Example of a saved profile (pretty-printed):
 
 ## Downloads
 
-| Version         | Release Date | Windows Download                                                               | Linux Support |
-| --------------- | ------------ | ------------------------------------------------------------------------------ | ------------- |
-| v1.0.4 – Part 2 | 2025-10-02   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.4/Surf.exe)   | Coming soon   |
-| v1.0.4 – Part 1 | 2025-09-28   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.4/Surf.exe)   | Coming soon   |
-| v1.0.3p1        | 2025-09-19   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.3p1/Surf.exe) | Coming soon   |
-| v1.0.3          | 2025-09-12   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.3/Surf.exe)   | Coming soon   |
-| v1.0.2p3        | 2025-09-10   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.2p3/Surf.exe) | Coming soon   |
-| v1.0.2p2        | 2025-09-10   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.2p2/Surf.exe) | Coming soon   |
-| v1.0.2p1        | 2025-09-09   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.2p1/Surf.exe) | Coming soon   |
-| v1.0.2          | last month   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.2/Surf.exe)   | Coming soon   |
-| v1.0.1          | 2025-08-31   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.1/Surf.exe)   | Coming soon   |
-| v1.0.0          | 2025-08-31   | [Surf.exe](https://github.com/awarzu/Surf/releases/download/v1.0.0/Surf.exe)   | Coming soon   |
+| Version | Release Date | Windows | Linux | Notes |
+|---------|--------------|--------|-------|-------|
+| v1.0.4 – Part 2 | 2025-10-02 | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.4/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.4) |
+| v1.0.4 – Part 1 | 2025-09-28 | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.4/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.4) |
+| v1.0.3p1 | 2025-09-19 | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.3p1/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.3p1) |
+| v1.0.3 | 2025-09-12 | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.3/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.3) |
+| v1.0.2p3 | 2025-09-10 | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.2p3/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.2p3) |
+| v1.0.2p2 | 2025-09-10 | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.2p2/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.2p2) |
+| v1.0.2p1 | 2025-09-09 | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.2p1/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.2p1) |
+| v1.0.2 | last month | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.2/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.2) |
+| v1.0.1 | 2025-08-31 | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.1/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.1) |
+| v1.0.0 | 2025-08-31 | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.0/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.0) |
+
 
 ---
 
