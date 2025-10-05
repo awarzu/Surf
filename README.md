@@ -2,7 +2,27 @@
 
 > A modern, polished reimplementation of CustomCurve Pro — a Python Tkinter app for creating, editing, and testing custom mouse sensitivity curves. Designed for precision, performance, and a clean dark UI.
 
-[![Latest Release](https://img.shields.io/github/v/release/awarzu/Surf?label=latest\&color=2ea44f\&style=flat-square)](https://github.com/awarzu/Surf/releases) [![License: MIT](https://img.shields.io/badge/license-MIT-yellow?style=flat-square\&logo=opensourceinitiative\&logoColor=white)](LICENSE) [![Stars](https://img.shields.io/github/stars/awarzu/Surf?style=flat-square\&label=stars\&logo=github\&logoColor=white)](https://github.com/awarzu/Surf/stargazers) [![Contributors](https://img.shields.io/github/contributors/awarzu/Surf?style=flat-square)](https://github.com/awarzu/Surf/graphs/contributors) [![Windows](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square\&logo=windows\&logoColor=white)](https://github.com/awarzu/Surf) [![Downloads](https://img.shields.io/github/downloads/awarzu/Surf/total?style=flat-square)](https://github.com/awarzu/Surf/releases)
+<p align="center">
+  <a href="https://github.com/awarzu/Surf/releases">
+    <img src="https://img.shields.io/github/v/release/awarzu/Surf?label=latest&color=2ea44f&style=flat-square" alt="Latest Release">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="License: MIT">
+  </a>
+  <a href="https://github.com/awarzu/Surf/stargazers">
+    <img src="https://img.shields.io/github/stars/awarzu/Surf?style=flat-square&label=stars&logo=github&logoColor=white" alt="Stars">
+  </a>
+  <a href="https://github.com/awarzu/Surf/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/awarzu/Surf?style=flat-square" alt="Contributors">
+  </a>
+  <a href="https://github.com/awarzu/Surf">
+    <img src="https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+  </a>
+  <a href="https://github.com/awarzu/Surf/releases">
+    <img src="https://img.shields.io/github/downloads/awarzu/Surf/total?style=flat-square" alt="Downloads">
+  </a>
+</p>
+
 
 <p align="center">
   <img src="icon.png" alt="Surf logo" width="300"/>
