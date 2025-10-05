@@ -27,8 +27,6 @@
 </p>
 
 <p align="center">
-  <img src="icon.png" alt="Surf logo" width="300"/>
-</p>
 
 ---
 
