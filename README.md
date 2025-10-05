@@ -8,7 +8,6 @@
 </div>
 
 <div align="center">
-
 <p>
   <a href="https://github.com/awarzu/Surf/releases">
     <img src="https://img.shields.io/github/v/release/awarzu/Surf?label=latest&color=2ea44f&style=flat-square" alt="Latest Release">
@@ -29,8 +28,30 @@
     <img src="https://img.shields.io/github/downloads/awarzu/Surf/total?style=flat-square" alt="Downloads">
   </a>
 </p>
+</div>
+
+---
+
+<div align="center">
+
+## ⚠️ Anti-Cheat Warning
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+**Currently Incompatible:** 🚫 Valorant • 🚫 Apex Legends
+
+Kernel-level anti-cheat detects SURF. **Do not use with these games.**  
+Fix planned for next update.
+
+</td>
+</tr>
+</table>
 
 </div>
+
+---
 
 ---
 
