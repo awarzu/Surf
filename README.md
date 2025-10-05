@@ -2,7 +2,7 @@
 
 > A modern, polished reimplementation of CustomCurve Pro — a Python Tkinter app for creating, editing, and testing custom mouse sensitivity curves. Designed for precision, performance, and a clean dark UI.
 
-[![Latest Release: v1.0.4r2](https://img.shields.io/badge/Latest_Release-v1.0.4r2-green)](https://github.com/awarzu/Surf/releases/tag/v1.0.4r2) [![Release](https://img.shields.io/github/v/release/awarzu/Surf)](https://github.com/awarzu/Surf/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Stars](https://img.shields.io/github/stars/awarzu/Surf?style=social)](https://github.com/awarzu/Surf/stargazers)
+[![Latest Release](https://img.shields.io/github/v/release/awarzu/Surf)](https://github.com/awarzu/Surf/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Stars](https://img.shields.io/github/stars/awarzu/Surf?style=social)](https://github.com/awarzu/Surf/stargazers)
 
 <p align="center">
   <img src="icon.png" alt="Surf logo" width="300"/>
@@ -113,7 +113,7 @@ Example of a saved profile (pretty-printed):
 
 | Version         | Release Date | Windows                                                                                                                                                    | Linux       | Notes                                                                     |
 | --------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------- |
-| v1.0.4r2        | 2025-10-05   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.4r2/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.4r2)     |
+| v1.0.4 – Part 3 | 2025-10-05   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.4r2/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.4r2)     |
 | v1.0.4 – Part 2 | 2025-10-02   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.4r1/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.4r1)     |
 | v1.0.4 – Part 1 | 2025-09-28   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.4/Surf.exe)   | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.4-part1) |
 | v1.0.3p1        | 2025-09-19   | [![Download](https://img.shields.io/badge/Download-Surf.exe-blue?style=for-the-badge)](https://github.com/awarzu/Surf/releases/download/v1.0.3p1/Surf.exe) | Coming soon | [Release Notes](https://github.com/awarzu/Surf/releases/tag/v1.0.3p1)     |
