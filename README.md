@@ -1,7 +1,6 @@
 # SURF
 
-> **A modern, polished reimplementation of CustomCurve Pro — a Python Tkinter app for creating, editing, and testing custom mouse sensitivity curves.**  
-> Designed for precision, performance, and a clean dark UI.
+> **A modern, polished reimplementation of CustomCurve Pro — a Python Tkinter app for creating, editing, and testing custom mouse sensitivity curves. Designed for precision, performance, and a clean dark UI.**
 
 <p>
   <a href="https://github.com/awarzu/Surf/releases">
