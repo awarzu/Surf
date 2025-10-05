@@ -165,7 +165,8 @@ Since the repository currently contains only compiled releases, contributions ca
 * **Testing** — Download releases, test across different systems, and report compatibility or performance issues
 
 Pull requests with code changes are welcome once source files are available.
-
+ <img src="icon.png" alt="Surf logo" width="300"/>
+</p>
 ---
 
 ## License
