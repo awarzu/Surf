@@ -34,7 +34,7 @@
 
 <div align="center">
 
-## ⚠️ Anti-Cheat Warning
+## ⚠️ Anti-Cheat Compatibility Warning
 
 <table>
 <tr>
@@ -42,8 +42,11 @@
 
 **Currently Incompatible:** 🚫 Valorant • 🚫 Apex Legends
 
-Kernel-level anti-cheat detects SURF. **Do not use with these games.**  
-Fix planned for next update.
+Kernel-level anti-cheat systems detect SURF due to driver architecture limitations.  
+**Do not use with these games to avoid potential bans.**
+
+**Technical Issue:** Driver cannot currently read directional maps; requires LUT implementation rewrite.  
+**Status:** Fix in development for next update.
 
 </td>
 </tr>
